@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Привет, я oneiro!
 
-<!--
-**oneiroo/oneiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент направления Прикладная информатика (09.03.03). Развиваюсь в сфере IT и создаю свои первые проекты.
 
-Here are some ideas to get you started:
+### 🛠 Мои навыки:
+- Языки программирования: ![Python](https://shields.io) ![C#](https://shields.io)
+- Технологии: Unity3D, Git, GitHub Desktop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Сейчас я:
+- Изучаю основы ООП на языке C#.
+- Автоматизирую задачи на Python.
+- Работаю над 
+
+### 📫 Как со мной связаться:
+- Email: ultra.kaban1488@gmail.com
+- Telegram: @oneiro_o
+
+# 👋 Hi, I'm я oneiro!
+
+I am a first-year student majoring in Applied Informatics (09.03.03). I'm passionate about software development and currently building my first projects to grow as an IT professional.
+
+### 🛠 Tech Stack & Tools:
+- **Programming Languages: ![C#](https://shields.io) ![Python](https://shields.io)
+- **Game Dev & Tools: ![Unity](https://shields.io) ![Git](https://shields.io)
+
+### 🔭 Current Focus:
+- Learning Object-Oriented Programming (OOP) core concepts in C#.
+- Enhancing my problem-solving skills with Python.
+
+### 📫 Connect with me:
+- Email: ultra.kaban1488@gmail.com
+- Telegram: @oneiro_o
+
