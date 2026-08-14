@@ -33,4 +33,4 @@ I am a first-year student majoring in Applied Informatics (09.03.03). I'm passio
 ### 📫 Connect with me:
 - Email: ultra.kaban1488@gmail.com
 - Telegram: @oneiro_o
-
+в
