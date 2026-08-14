@@ -3,8 +3,10 @@
 Я студент направления Прикладная информатика (09.03.03). Развиваюсь в сфере IT и создаю свои первые проекты.
 
 ### 🛠 Мои навыки:
-- **Языки программирования:** ![Python](https://shields.io) ![C#](https://shields.io)
-- **Технологии:** Unity3D, Git, GitHub Desktop.
+- **[Python]** 🐍 — Написание скриптов, автоматизация задач
+- **[C#]** 🚀 — Изучение ООП, консольные утилиты
+- **[Unity3D]** 🎮 — Разработка прототипов игр
+- **[Инструменты]** 💻 — Git, GitHub Desktop
 
 ### 🔭 Сейчас я:
 - Изучаю основы ООП на языке C#.
@@ -22,9 +24,8 @@
 I am a first-year student majoring in Applied Informatics (09.03.03). I'm passionate about software development and currently building my first projects to grow as an IT professional.
 
 ### 🛠 Tech Stack & Tools:
-- **Programming Languages:** ![C#](https://shields.io) ![Python](https://shields.io)
-- **Game Dev & Tools:** ![Unity](https://shields.io) ![Git](https://shields.io)
-
+- **Languages:** Python 🐍 | C# 🚀
+- **Game Dev & Tools:** Unity3D 🎮 | Git 💻
 
 ### 🔭 Current Focus:
 - Learning Object-Oriented Programming (OOP) core concepts in C#.
